@@ -15,6 +15,7 @@ Software / Programming languages used:
 
 - Arduino (language build on top of C/C++)
 - Python (For Backend and Alexa skill set development)
+- Javascript (Node.js for setting and configuring Photon board)
 - Particle Cloud API's
 - Twilio SMS API
 
